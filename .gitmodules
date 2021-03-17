@@ -1,0 +1,9 @@
+[submodule "ROS/Packages Needed/Turtlebot2-On-Melodic"]
+	path = ROS/Packages Needed/Turtlebot2-On-Melodic
+	url = https://github.com/gaunthan/Turtlebot2-On-Melodic.git
+[submodule "ROS/Packages Needed/hls_lfcd_lds_driver"]
+	path = ROS/Packages Needed/hls_lfcd_lds_driver
+	url = https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver.git
+[submodule "ROS/Packages Needed/hector_slam"]
+	path = ROS/Packages Needed/hector_slam
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
